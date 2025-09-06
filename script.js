@@ -51,7 +51,6 @@ const displayLevelWord = (words) => {
         </div>
     </div>
       
-        
         `
         wordContainer.appendChild(wordDiv)
     })
